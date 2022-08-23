@@ -3,3 +3,4 @@ As I have progressed through this course, I have put together a number of amazin
 
 My task is to build a text editor that runs in the browser. The app will be a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
 ![Screenshot (12)](https://user-images.githubusercontent.com/106851538/186043874-9c94835b-53ce-4acc-9eda-0deacd381871.png)
+https://infinite-lowlands-85408.herokuapp.com/ Give the app a try!
